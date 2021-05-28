@@ -16,9 +16,7 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/JKudymowa
-organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+organizations: []
 education:
   courses:
     - course: PhD in Economics (discontinued)
