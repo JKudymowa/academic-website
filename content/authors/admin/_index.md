@@ -21,7 +21,7 @@ education:
   courses:
     - course: PhD in Economics (discontinued)
       institution: Erasmus University & Tinbergen Institute
-      year: 2012
+      year: 2020
     - course: MPhil in Economics
       institution: Tinbergen Institute
       year: 2016
