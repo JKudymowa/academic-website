@@ -34,6 +34,6 @@ highlight_name: false
 ---
 I am an economist turned data scientist, currently on parental leave. I love using data to improve my understanding of the world and to make better decisions. This website is a collection of my personal fun projects made during free time.
 
-Previously I worked as a researcher in economics at Erasmus University and as a policy evaluation consultant for the Dutch Ministry of Foreign Affairs. My research was focused on investigating the potential of behavioral and policy interventions to incentivize and improve healthy behaviors in low and middle income countries. I was mainly involved in a large-scale field experiment in the Philippines on cardiovascular disease prevention. 
+Previously I worked as a researcher in economics at Erasmus University and as a policy evaluation consultant for the Dutch Ministry of Foreign Affairs. My research was focused on investigating the potential of behavioral and policy interventions to incentivize and improve healthy behaviors in low and middle income countries. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
