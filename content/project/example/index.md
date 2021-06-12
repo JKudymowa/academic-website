@@ -4,7 +4,7 @@ url_pdf: ""
 summary: An example of using the in-built project page.
 url_video: ""
 date: 2016-04-27T00:00:00Z
-external_link: http://localhost:8888/notebooks/Rock%20climbing.ipynb
+external_link: 
 url_slides: ""
 title: How hard do people climb?
 tags:
