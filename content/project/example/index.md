@@ -6,7 +6,7 @@ url_video: ""
 date: 2016-04-27T00:00:00Z
 external_link: 
 url_slides: ""
-title: How hard do people climb?
+title: Example
 tags:
   - Deep Learning
 links:
@@ -20,4 +20,3 @@ image:
   filename: featured.png
 url_code: ""
 ---
-Ever since I dipped my toe into rock climbing in 2016, I've been amazed about how quickly one can progress from barely being able to climb a ladder to
